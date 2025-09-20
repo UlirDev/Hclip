@@ -1,4 +1,4 @@
-# Auto Terms
+# HCLIP
 _A QOL module for hypixel skyblock dungeons._ 
 
 ## Features 
